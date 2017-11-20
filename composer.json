@@ -1,0 +1,22 @@
+{
+    "name": "librecommerce/lib-db",
+    "description": "",
+    "keywords": ["", "", ""],
+    "license": "",
+    "authors": [
+        {
+            "name": "Lucas Krupinski",
+            "email": "lucasjkr@me.com"
+        }
+    ],
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+	"php": ">=5.4"
+    },
+	"autoload": {
+        "psr-4": {
+            "Librecommerce\\Components\\": "src/"
+        }
+    }
+}
