@@ -1,7 +1,7 @@
 {
     "name": "librecommerce/lib-db",
-    "description": "",
-    "keywords": ["", "", ""],
+    "description": "Simple PDO wrapper",
+    "keywords": ["Librecommerce", "database", "PDO", "wrapper"],
     "license": "",
     "authors": [
         {
